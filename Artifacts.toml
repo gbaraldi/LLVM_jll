@@ -1,0 +1,9 @@
+[[Clang]]
+arch = "x86_64"
+git-tree-sha1 = "ffd36ac999eb3d12efeaee80cb0f405b90998c0b"
+llvm_version = "16"
+os = "macos"
+
+    [[Clang.download]]
+    sha256 = "9825f3ce1c04c08cacc7d6f1e9360191f24bcdaea4d9ffd913f92c682702484f"
+    url = "https://github.com/gbaraldi/LLVM_jll/releases/download/Clang-v16.0.6+0/Clang.v16.0.6.x86_64-apple-darwin-llvm_version+16.tar.gz"
